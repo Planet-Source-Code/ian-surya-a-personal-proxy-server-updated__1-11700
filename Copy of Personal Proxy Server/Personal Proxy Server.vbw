@@ -1,0 +1,16 @@
+frmMain = 22, 22, 488, 370, Z, 44, 44, 510, 392, C
+CBuffer = 66, 66, 459, 405, 
+modGlobal = 110, 110, 588, 377, 
+modConfiguration = 110, 110, 462, 476, 
+frmConfiguration = 110, 110, 462, 476, , 88, 88, 440, 454, C
+modWin32API = 22, 22, 376, 388, 
+modStats = 22, 22, 376, 388, 
+Cconnection = 44, 44, 398, 410, 
+modHTML = 44, 44, 442, 319, 
+modLogin = 88, 88, 534, 335, 
+modEncryption = 110, 110, 536, 397, 
+frmUser = 110, 110, 556, 357, , 22, 22, 468, 269, C
+frmUserLogin = 22, 22, 468, 269, , 0, 0, 446, 247, C
+CStringBuffer = 44, 44, 493, 292, 
+CProxy = 22, 22, 491, 244, 
+CHttpHeader = 0, 0, 544, 222, 
